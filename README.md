@@ -1,1 +1,1 @@
-# QuantTradingStartegies
+# QuantTradingStrategies
